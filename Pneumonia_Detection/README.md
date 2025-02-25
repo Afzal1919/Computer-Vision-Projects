@@ -36,7 +36,7 @@ Ensure you have the following installed:
 ### 🔧 Steps to Set Up the Project
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/MAhad01/pneumonia_prediction_project.git
+   git clone https://github.com/Afzal1919/pneumonia_prediction_project.git
    cd pneumonia_prediction_project
    ```
 
