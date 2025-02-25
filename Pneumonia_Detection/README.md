@@ -1,4 +1,4 @@
-# Pneumonia Detection Using Deep Learning
+# Pneumonia Detection Using VGG19 CNN
 
 ## 📌 Overview
 This project is a **web-based application** designed to detect **pneumonia** from chest X-ray images using a **deep learning model**. The model is built on the **VGG19** architecture and is served through a **Flask-based web interface**. Users can upload chest X-ray images, and the application will predict whether the image indicates **pneumonia** or is **normal**.
