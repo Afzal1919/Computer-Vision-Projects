@@ -36,8 +36,8 @@ Ensure you have the following installed:
 ### 🔧 Steps to Set Up the Project
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/Afzal1919/pneumonia_prediction_project.git
-   cd pneumonia_prediction_project
+   git clone https://github.com/Afzal1919/Pneumonia_Detection.git
+   cd Pneumonia_Detection
    ```
 
 2. **Create and activate a Python virtual environment:**
