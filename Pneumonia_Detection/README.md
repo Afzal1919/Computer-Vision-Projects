@@ -53,7 +53,7 @@ Ensure you have the following installed:
    ```
 
 4. **Download the pretrained model weights:**  
-   Download the `vgg19_model_01.h5` file from [this link](#) and place it in the `model_weights/` folder.
+   Download the `vgg19_model_01.h5` file from [this link](https://drive.google.com/file/d/1Q-7xaN3qMDYEFITqtQIdQwzuUW1erKCA/view?usp=sharing) and place it in the `model_weights/` folder.
 
 5. **Run the Flask app:**
    ```bash
