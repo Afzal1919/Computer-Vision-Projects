@@ -36,9 +36,9 @@ Ensure you have the following installed:
 ### 🔧 Steps to Set Up the Project
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/Afzal1919/Pneumonia_Detection.git
-   cd Pneumonia_Detection
-   ```
+   git clone https://github.com/Afzal1919/Medical-Image-Analysis-using-Deep-Learning.git
+   cd Medical-Image-Analysis-using-Deep-Learning
+     ```
 
 2. **Create and activate a Python virtual environment:**
    ```bash
