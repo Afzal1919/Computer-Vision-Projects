@@ -59,7 +59,7 @@ Ensure you have the following installed:
    ```bash
    python app.py
    ```
-   The application will be available at: **[http://127.0.0.1:5000/](http://127.0.0.1:5000/)**
+   Access the application at at: **[http://127.0.0.1:5000/]**
 
 ## 🎯 Usage
 1. **Launch the web application.**
@@ -67,7 +67,7 @@ Ensure you have the following installed:
 3. **Click the 'Predict' button** to receive a classification result (Normal/Pneumonia).
 
 ## 🏆 Model Training
-The model was trained using the **Chest X-Ray Images (Pneumonia) dataset** from Kaggle, consisting of training, validation, and test sets.
+The model was trained using the [**Chest X-Ray Images (Pneumonia) dataset**](https://www.kaggle.com/datasets/paultimothymooney/chest-xray-pneumonia) from Kaggle, consisting of training, validation, and test sets.
 
 ### 🔍 Training Steps
 - **📂 Data Loading**: The dataset is loaded and processed using **OpenCV**.
